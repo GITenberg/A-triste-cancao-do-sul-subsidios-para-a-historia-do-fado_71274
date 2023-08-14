@@ -1,0 +1,35 @@
+_repo: A-triste-cancao-do-sul-subsidios-para-a-historia-do-fado_71274
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Pimentel, Alberto
+    alias: Pimentel, Alberto Augusto de Almeida
+    birthdate: 1849
+    deathdate: 1925
+    gutenberg_agent_id: '25371'
+    url: http://www.gutenberg.org/2009/agents/25371
+    wikipedia: https://pt.wikipedia.org/wiki/Alberto_Pimentel
+description: ''
+gutenberg_issued: '2023-07-25'
+identifiers:
+  gutenberg: '71274'
+  lccn: '37018344'
+language: pt
+pgterms:marc904: https://archive.org/details/tristecanodo00pimeuoft/page/n11/mode/2up
+pgterms:marc905: 20220312124226pimentel
+pgterms:marc906: '1904'
+pgterms:marc907: PT
+production_note: Jude Eyelander and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aPortugal :$bLivraria Central, $c1904.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fados -- Portugal -- History and criticism'
+- !lcsh 'Folk songs, Portuguese -- Portugal -- History and criticism'
+- !lcc 'PQ'
+- !lcc 'ML'
+- GITenberg
+title: A triste canção do sul (subsidios para a historia do fado)
+url: http://www.gutenberg.org/ebooks/71274
